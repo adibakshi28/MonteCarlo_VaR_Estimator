@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or support, please contact Adibakshi.
+For any inquiries or support and issues, please contact Adibakshi.
