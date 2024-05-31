@@ -2,6 +2,10 @@
 
 This repository contains a VBA Excel project for calculating the Value at Risk (VaR) of a financial portfolio using both analytical and numerical methods, including Cholesky decomposition and Monte Carlo simulation. It is designed to provide a comprehensive toolset for financial risk management within Excel.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="ss/1.png" alt="Screenshot 1" style="width: 98%;">
+</div>
+
 ## Features
 
 - **Analytical Methods**: Utilizes standard formulas for VaR calculation.
