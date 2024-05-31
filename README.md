@@ -12,6 +12,10 @@ This repository contains a VBA Excel project for calculating the Value at Risk (
 - **Numerical Methods**: Employs Cholesky decomposition to handle correlated asset returns.
 - **Monte Carlo Simulation**: Simulates numerous scenarios to estimate VaR accurately.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="ss/2.png" alt="Screenshot 2" style="width: 98%;">
+</div>
+
 ## Files
 
 - `Demo.xls`: Example Excel file demonstrating the usage of the VaR estimator.
